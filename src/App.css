@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+
+.List-task{
+  max-width: 600;
+  margin: 10px ;
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.button-done {
+  background-color: rgb(50, 104, 50);
+  
+}
+.button-notDone{
+  background-color: rgb(161, 64, 64);
+}
+button{
+border: none;
+padding: 10px 10px ;
+border-radius: 5px;
+margin: 5px 15px;
+}
+input{
+  margin-right: 10px;
+}
